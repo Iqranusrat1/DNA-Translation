@@ -1,0 +1,1 @@
+By the sequencing two ORF sequences was obtained from which ORF1 was selected because it is the complete coding sequence spanning the entire 537 nucleotides with a clear start (ATG) and stop codon, representing the most biologically relevant and longest open reading frame.
